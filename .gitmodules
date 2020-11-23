@@ -1,0 +1,6 @@
+[submodule "dep/box2d"]
+	path = dep/box2d
+	url = https://github.com/erincatto/box2d
+[submodule "dep/fmt"]
+	path = dep/fmt
+	url = https://github.com/fmtlib/fmt
